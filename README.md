@@ -4,6 +4,8 @@
 </br>
 👩🏽‍💻 Currently learning about frontend engineering
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sweetneali/sweetneali/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="..." />
+  <source media="(prefers-color-scheme: light)" srcset="..." />
+  <img alt="github-snake" src="..." width="100%" />
+</picture>
