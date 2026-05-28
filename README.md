@@ -1,6 +1,6 @@
 # hi, i'm aline!
 
-💜 product designer at nubank </br>
+✨ product designer at nubank </br>
 👩🏽‍💻 currently learning about frontend engineering
 
 ## my tech stack
