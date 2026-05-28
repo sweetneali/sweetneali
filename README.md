@@ -1,6 +1,7 @@
 ## Hi 👋, I'm Aline!
 
 👩🏽‍🎨 Product Designer at Nubank
+</br>
 👩🏽‍💻 Currently learning about frontend engineering
 
 <picture>
