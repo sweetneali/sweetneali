@@ -22,3 +22,5 @@ currently learning about frontend engineering 👩🏽‍💻
 ![Figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%2320232a.svg?style=for-the-badge&logo=notion&logoColor=white)
 -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
