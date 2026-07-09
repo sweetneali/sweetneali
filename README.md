@@ -1,9 +1,13 @@
-# hi, i'm aline!
+<!-- # hi, i'm aline! -->
+
+<h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=24&duration=2000&pause=1000&color=F7F7F7&vCenter=true&width=1000&height=30&lines=hi%2C+i'm+aline!" alt="Typing SVG" /></a>
+</h2>
 
 product designer at nubank ✨ </br>
 currently learning about frontend engineering 👩🏽‍💻
 
-## my tech stack
+### my tech stack
 
 ![HTML5](https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css&logoColor=white)
