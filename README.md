@@ -7,7 +7,7 @@
 </h2>
 
 product designer at nubank ✨ </br>
-currently learning about frontend engineering 👩🏽‍💻
+currently learning about software development 👩🏽‍💻
 
 ### my tech stack
 
